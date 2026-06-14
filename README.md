@@ -1,7 +1,7 @@
 # Jogo da velha em Java
 Projeto em desenvolvimento
 
-## Obejtivo
+## Objetivo
 Criar um jogo da velha em Java para praticar:
 - Lógica de programação
 - Matrizes
