@@ -2,7 +2,7 @@
 Projeto em desenvolvimento
 
 ## Obejtivo
-Criar um jpgp da velha em Java para praticar:
+Criar um jogo da velha em Java para praticar:
 - Lógica de programação
 - Matrizes
 - Estruturas de reetição
